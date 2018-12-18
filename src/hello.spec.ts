@@ -1,5 +1,4 @@
 import { hello } from './hello';
-import {} from 'jest';
 
 describe('Hello Function', () => {
   it('should return hello world', () => {
