@@ -25,24 +25,24 @@
     "node": ">=8.9"
   },
   "dependencies": {
-    "koa": "^2.5.1",
-    "lodash": "^4.17.10",
-    "mongoose": "^5.1.2",
+    "koa": "^2.6.2",
+    "lodash": "^4.17.11",
+    "mongoose": "^5.4.0",
     "redis": "^2.8.0"
   },
   "devDependencies": {
-    "@types/jest": "^23.0.0",
-    "@types/koa": "^2.0.46",
-    "@types/lodash": "^4.14.109",
-    "@types/mongoose": "^5.0.14",
-    "@types/node": "^10.1.2",
-    "@types/redis": "^2.8.6",
-    "jest": "^23.1.0",
-    "prettier": "^1.13.5",
-    "ts-jest": "^22.4.6",
+    "@types/jest": "^23.3.10",
+    "@types/koa": "^2.0.47",
+    "@types/lodash": "^4.14.119",
+    "@types/mongoose": "^5.3.5",
+    "@types/node": "^10.12.15",
+    "@types/redis": "^2.8.8",
+    "jest": "^23.6.0",
+    "prettier": "^1.15.3",
+    "ts-jest": "^23.10.5",
     "ts-node": "^7.0.1",
-    "tslint": "^5.10.0",
-    "typescript": "^2.9.1"
+    "tslint": "^5.12.0",
+    "typescript": "^3.2.2"
   },
   "jest": {
     "transform": {
